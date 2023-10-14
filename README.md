@@ -89,7 +89,7 @@ plt.show()
 ![ds 6 9](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex06/assets/119393935/a02242b5-8752-4828-a1d8-4df2e57196e9)
 ### Square root transformation:
 ![ds 6 10](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex06/assets/119393935/b0fd9bfe-48b2-416c-8d3f-6e02d5eaf3e2)
-![ds 6 11](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex06/assets/119393935/300566fc-0788-48f2-8e7b-dfb4938e8c3a)
+![ds 6 new](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex06/assets/119393935/6651776d-79ef-47a5-9d44-a8a1df250a09)
 ### Power transformation:
 ![ds 6 12 1](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex06/assets/119393935/e80598b8-156c-4355-be9f-e48818e6a895)
 ![ds 6 12](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex06/assets/119393935/6568f818-5b8c-4c68-8c73-dfbb5e68eff4)
